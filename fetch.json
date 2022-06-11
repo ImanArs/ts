@@ -1,0 +1,16 @@
+{
+    "userId":  1,
+    "id": 1,
+    "title": "Description",
+    "info": {
+        "desc": "qwerty",
+        "isActive": false
+    },
+    "tags": [
+        {
+            "name": "My name",
+            "value": 1000
+        }
+    ]
+}
+
